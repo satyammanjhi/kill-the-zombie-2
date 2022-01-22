@@ -30,6 +30,7 @@ function setup() {
   plane.scale = 0.37;
 
   invisibleBoundry = createSprite(width/2 ,height/2+180,1500,10);
+  
   invisibleBoundry.visible = false;
 
   restart = createSprite(width/2,height/2 );
