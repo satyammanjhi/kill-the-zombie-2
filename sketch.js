@@ -35,7 +35,7 @@ function setup() {
   restart = createSprite(width/2,height/2 );
   restart.addImage(restartimg);
   restart.scale = 0.5;
-  restart.visible = false;jjbkkjk
+  restart.visible = false;
 
   gameover = createSprite(width/2,height/2 - 250);
   gameover.addImage(gameoverimg);
